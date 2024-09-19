@@ -138,6 +138,39 @@
 
 ## Actas de Facultad de Ciencias Empresariales
 
+## Actas de Facultad de Ciencias Empresariales
+
+### ACTAS 2022
+
+- [Acta 16-03-2022 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2022/16-03-2022.pdf)
+- [Acta 20-04-2022 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2022/20-04-2022.pdf)
+- [Acta 18-05-2022 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2022/18-05-2022.pdf)
+- [Acta 19-07-2022 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2022/19-07-2022.pdf)
+- [Acta 03-11-2022 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2022/03-11-2022.pdf)
+- [Acta 21-11-2022 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2022/21-11-2022.pdf)
+
+### ACTAS 2023
+
+- [Acta 03-01-2023 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2023/03-01-2023.pdf)
+- [Acta 06-01-2023 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2023/06-01-2023.pdf)
+- [Acta 30-01-2023 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2023/30-01-2023.pdf)
+- [Acta 30-03-2023 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2023/30-03-2023.pdf)
+- [Acta 28-08-2023 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2023/28-08-2023.pdf)
+- [Acta 12-09-2023 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2023/12-09-2023.pdf)
+- [Acta 22-09-2023 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2023/22-09-2023.pdf)
+- [Acta 03-10-2023 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2023/03-10-2023.pdf)
+- [Acta 23-10-2023 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2023/23-10-2023.pdf)
+- [Acta 28-11-2023 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2023/28-11-2023.pdf)
+
+### ACTAS 2024
+
+- [Acta 02-01-2024 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2024/02-01-2024.pdf)
+- [Acta 08-01-2024 MAÑANA 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2024/08-01-2024M.pdf)
+- [Acta 18-05-2024 TARDE 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2024/08-01-2024T.pdf)
+- [Acta 22-01-2024 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2024/22-01-2024.pdf)
+- [Acta 18-03-2024 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2024/18-03-2024.pdf)
+- [Acta 16-07-2024 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/ActasFacem/2024/16-07-2024.pdf)
+
 ## Actas de Facultad de Ciencias de la Salud
 
 ## Actas de Facultad de Derecho y Humanidades
