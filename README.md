@@ -9,58 +9,13 @@
 ### ESTATUTO, PLAN ESTRATÉGICO Y REGLAMENTOS DE LA UNIVERSIDAD
 
 - [Misión y Visión Institucional](#misión-y-visión)
-- [Estatuto Universitario](#estatuto-universitario)
-- [Resumen de Plan Estratégico](#resumen-de-plan-estratégico)
+- [Estatuto Universitario 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/DocumentosGenerales/Estatuto.pdf)
+- [Resumen de Plan Estratégico 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/DocumentosGenerales/Plan%20Estrat%C3%A9gico%20Institucional%202023-2027%20V03.pdf)
 - [Reglamentos](#reglamentos)
-
-### ACTAS APROBADAS EN LAS SESIONES DE CONSEJO DE FACULTAD, DE CONSEJO UNIVERSITARIO Y RESOLUCIONES DE ÓRGANOS SOCIETARIOS
-
-- [Actas de Consejo Universitario](#actas-de-consejo-universitario)
-- [Actas de Facultad de Ciencias Empresariales](#actas-de-facultad-de-ciencias-empresariales)
-- [Actas de Facultad de Ciencias de la Salud](#actas-de-facultad-de-ciencias-de-la-salud)
-- [Actas de Facultad de Derecho y Humanidades](#actas-de-facultad-de-derecho-y-humanidades)
-- [Actas de Facultad de Ingeniería, Arquitectura y Urbanismo](#actas-de-facultad-de-ingeniería-arquitectura-y-urbanismo)
-- [Resoluciones de Junta General de Accionistas](#resoluciones-de-junta-general-de-accionistas)
-
-### ESTADOS FINANCIEROS DE LA UNIVERSIDAD
-
-- [Estado de Situación Financiera](#estado-de-situación-financiera)
-- [Estado de Resultados](#estado-de-resultados)
-- [Estado de cambio en el Patrimonio Neto](#estado-de-cambio-en-el-patrimonio-neto)
-- [Estado de Flujo de efectivo](#estado-de-flujo-de-efectivo)
-
-### RELACIÓN Y NÚMERO DE BECAS Y CRÉDITOS EDUCATIVOS
-
-- [Relación de número de becas disponibles y otorgadas en el año](#relación-de-número-de-becas-y-créditos-educativos)
-
-### INVERSIONES
-
-- [Inversiones](#inversiones)
-
-### PROYECTOS DE INVESTIGACIÓN Y LOS GASTOS QUE GENERE
-
-- [Listado de proyectos de investigación](#proyectos-de-investigación-y-los-gastos-que-genere)
 
 ### RELACIÓN DE PAGOS EXIGIDOS A LOS ALUMNOS POR TODA ÍNDOLE
 
 - [Reglamento de Cobranzas](#relación-de-pagos-exigidos-a-los-alumnos-por-toda-índole)
-
-### NÚMERO DE ALUMNOS POR FACULTADES Y PROGRAMAS DE ESTUDIO
-
-- [Número de Estudiantes Pregrado](#número-de-alumnos-por-facultades-y-programas-de-estudio)
-- [Número de Estudiantes Posgrado](#número-de-alumnos-por-facultades-y-programas-de-estudio)
-
-### CONFORMACIÓN DEL CUERPO DOCENTE
-
-- [Cuerpo Docente Pregrado y Posgrado](#conformación-del-cuerpo-docente)
-- [Relación de Docentes Investigadores](#conformación-del-cuerpo-docente)
-
-### NÚMERO DE POSTULANTES, INGRESANTES, MATRICULADOS Y EGRESADOS POR AÑO Y CARRERA
-
-- [Número de Postulantes, Ingresantes y Matriculados en Pregrado](#número-de-postulantes-ingresantes-matriculados-y-egresados-por-año-y-carrera)
-- [Número de Postulantes, Ingresantes y Matriculados en Posgrado](#número-de-postulantes-ingresantes-matriculados-y-egresados-por-año-y-carrera)
-- [Egresados en Pregrado](#número-de-postulantes-ingresantes-matriculados-y-egresados-por-año-y-carrera)
-- [Egresados en Posgrado](#número-de-postulantes-ingresantes-matriculados-y-egresados-por-año-y-carrera)
 
 ### LAS REMUNERACIONES, BONIFICACIONES Y DEMÁS ESTÍMULOS A LAS AUTORIDADES Y DOCENTES
 
@@ -68,6 +23,13 @@
 - [Estímulos al Docente](#las-remuneraciones-bonificaciones-y-demás-estímulos-a-las-autoridades-y-docentes)
 
 ### OTROS DOCUMENTOS INSTITUCIONALES
+
+- [Calendario de Admisión](#calendario-de-admisión)
+- [Temario Admisión](#temario-admisión)
+- [Ambientes o Espacios destinados a Brindar los Servicios Sociales, Deportivos o Culturales 🔗](https://www.uss.edu.pe/uss/TransparenciaDoc/OtrosDocumentos/Ambientes%20Universitarios%202023-II.pdf)
+- [Mallas Curriculares](#mallas-curriculares)
+- [Vacantes y Fechas de Concurso de Selección Docente](#vacantes-y-fechas-de-concurso-de-selección-docente)
+- [Otros - En proceso](#otros-en-proceso)
 
 ---
 
